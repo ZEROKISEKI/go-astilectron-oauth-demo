@@ -1,9 +1,11 @@
 # go-astilectron-oauth-demo
 
 
-An oauth demo with go-astilectron supported(using github oauth as an example)
+An oauth demo with go-astilectron and vue supported(using github oauth as an example)
+
 
 References to the issue [How to use OAuth](https://github.com/asticode/go-astilectron/issues/89).
+
 
 ### Usage:
 
@@ -47,10 +49,10 @@ const (
 Then, run the command:
 
 ```
-
 $ astilectron-bundler -v
 
-
 ```
+
+
 
 
