@@ -1,0 +1,8 @@
+{
+  "app_name": "Astilectron OAuth demo",
+  "icon_path_darwin": "src/dist/icon.icns",
+  "icon_path_linux": "src/dist/icon.png",
+  "icon_path_windows": "src/dist/icon.ico",
+  "output_path": "output",
+  "resources_path": "src/dist"
+}
